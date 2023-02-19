@@ -1295,3 +1295,7 @@ footer .credits {
 footer .credits a {
   color: #fff;
 }
+.col-md-6 {
+  margin: auto;
+  text-align: center;
+}
